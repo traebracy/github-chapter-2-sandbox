@@ -32,4 +32,4 @@ git branch -d "branch-name"
 git branch -D "branch-name"
 ```
 
-🎉
+🙌
