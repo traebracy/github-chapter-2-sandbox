@@ -15,13 +15,13 @@ The reason for forking first and then cloning is to create a GitHub copy that I 
 The workflow looks like this:
 
 ```text
-Original repo → My fork → My computer
+Original repo -> My fork -> My computer
 ```
 
 Then after making changes:
 
 ```text
-My computer → My fork → Pull request to original repo
+My computer -> My fork -> Pull request to original repo
 ```
 
 A repository can usually be cloned without forking if the repository already belongs to me or if I have permission to push directly to it.
@@ -72,7 +72,7 @@ INTO: the original repository and its main branch
 Example:
 
 ```text
-FROM: traebracy/github-chapter-2-contributions, branch: final-exercise-traebracy
+FROM: bracytrae/github-chapter-2-contributions, branch: final-exercise-bracytrae
 INTO: codedex-io/github-chapter-2-contributions, branch: main
 ```
 
@@ -83,5 +83,3 @@ This allows the original repository owner to review the changes before deciding 
 This practice helped me understand that GitHub is not just about saving code. It is also about organizing changes, working safely on branches, and keeping a project clean after changes are merged.
 
 The biggest thing I learned is that branches let me experiment without directly affecting the main version of a project. Forks make it possible to contribute to repositories I do not own, and pull requests make it possible to suggest changes in an organized way.
-
-🙌
