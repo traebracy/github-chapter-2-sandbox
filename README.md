@@ -78,6 +78,10 @@ INTO: codedex-io/github-chapter-2-contributions, branch: main
 
 This allows the original repository owner to review the changes before deciding whether to merge them.
 
+## Credit
+
+Credit to CodeDex for the Git and GitHub course material this pull request practice is based on.
+
 ## Reflection
 
 This practice helped me understand that GitHub is not just about saving code. It is also about organizing changes, working safely on branches, and keeping a project clean after changes are merged.
